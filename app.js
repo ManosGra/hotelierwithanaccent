@@ -90,7 +90,7 @@ document.getElementById("contactForm").addEventListener("submit", function (even
 
   // Send email
   Email.send({
-    SecureToken: "67d40d83-6d54-45c6-846c-664964dfbc61",
+    SecureToken: "",
     To: 'manosgrammos9@gmail.com',
     From: "manosgrammos9@gmail.com",
     Subject: "New Contact from Hotelier With An Accent",
