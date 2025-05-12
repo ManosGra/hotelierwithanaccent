@@ -227,10 +227,11 @@ nav {
   line-height: 1;
   font-size: 45px;
   letter-spacing: 1.2px;
+  font-weight: bold;
 }
 
 .profile p {
-  letter-spacing: 1.2px;
+  letter-spacing: 0.3px;
 }
 
 @media screen and (max-width: 767px) {
