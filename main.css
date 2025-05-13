@@ -56,6 +56,16 @@ p {
   height: 100vh;
 }
 
+@media screen and (max-width: 767px) {
+  .profile{
+    height: 100%;
+  }
+
+  .profile-content{
+    padding-left: 0!important;
+  }
+}
+
 .episodes{
   height: 100vh;
 }
@@ -417,7 +427,6 @@ textarea {
 
 @media screen and (max-width: 991px) {
   .footer {
-    margin-top: 100px;
     height: 70px;
   }
 }
