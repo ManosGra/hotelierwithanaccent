@@ -48,6 +48,10 @@ p {
   color: white;
 }
 
+.episodes{
+  height: 100vh;
+}
+
 /* Navigation */
 .navigation {
   background-color: rgba(255, 255, 255, 0.24);
@@ -183,10 +187,6 @@ nav {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 1;
   pointer-events: none;
-}
-
-.main-content {
-  height: 100vh;
 }
 
 /* Main Titles */
@@ -388,10 +388,6 @@ textarea {
   }
 }
 
-  .main-content-episodes{
-    height: 100vh;
-  }
-
 .footer {
   height: 50px;
   background-color: #d7c8b945;
@@ -413,7 +409,7 @@ textarea {
 
 @media screen and (max-width: 991px) {
   .footer {
-    margin-top: 550px;
+    margin-top: 100px;
     height: 70px;
   }
 }
