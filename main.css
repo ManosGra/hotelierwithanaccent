@@ -48,6 +48,14 @@ p {
   color: white;
 }
 
+.main-content{
+  height: 100vh;
+}
+
+.profile{
+  height: 100vh;
+}
+
 .episodes{
   height: 100vh;
 }
