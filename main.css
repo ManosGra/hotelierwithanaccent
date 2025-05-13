@@ -388,9 +388,12 @@ textarea {
   }
 }
 
+  .main-content-episodes{
+    height: 100vh;
+  }
+
 .footer {
   height: 50px;
-  margin-top: 60px;
   background-color: #d7c8b945;
 }
 
