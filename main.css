@@ -405,6 +405,7 @@ textarea {
 .footer {
   height: 50px;
   background-color: #d7c8b945;
+  margin-top: 20px;
 }
 
 .footer p {
