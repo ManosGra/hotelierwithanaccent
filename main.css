@@ -48,21 +48,21 @@ p {
   color: white;
 }
 
-.main-content{
+.main-content {
   height: 100vh;
 }
 
-.profile{
+.profile {
   height: 100vh;
 }
 
 @media screen and (max-width: 767px) {
-  .profile{
+  .profile {
     height: 100%;
   }
 
-  .profile-content{
-    padding-left: 0!important;
+  .profile-content {
+    padding-left: 0 !important;
   }
 }
 
@@ -402,6 +402,10 @@ textarea {
   }
 }
 
+.episodes {
+  height: 100vh;
+}
+
 .footer {
   height: 50px;
   background-color: #d7c8b945;
@@ -432,6 +436,7 @@ textarea {
 @media screen and (max-width: 767px) {
   .episodes {
     padding-top: 0 !important;
+    height: 100%;
   }
 
   .main-content-episodes {
@@ -499,9 +504,5 @@ textarea {
   .home-buttons a {
     font-size: 18px;
     padding: 15px 35px;
-  }
-
-  .episodes{
-    height: 100vh;
   }
 }
