@@ -423,6 +423,7 @@ textarea {
 
 @media screen and (max-width: 991px) {
   .footer {
+    margin-top: 20px;
     height: 70px;
   }
 }
@@ -430,7 +431,6 @@ textarea {
 @media screen and (max-width: 767px) {
   .episodes {
     padding-top: 0 !important;
-     margin-top: 20px;
   }
 
   .main-content-episodes {
