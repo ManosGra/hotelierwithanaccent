@@ -332,7 +332,7 @@ nav {
 
 .modal-content {
   background-color: black;
-  margin: 10% auto;
+  margin: 0 auto;
   padding: 30px;
   border-radius: 15px;
   max-width: 500px;
