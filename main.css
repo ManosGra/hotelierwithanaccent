@@ -500,4 +500,8 @@ textarea {
     font-size: 18px;
     padding: 15px 35px;
   }
+
+  .episodes{
+    height: 100%;
+  }
 }
