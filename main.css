@@ -502,6 +502,6 @@ textarea {
   }
 
   .episodes{
-    height: 100%;
+    height: 100vh;
   }
 }
