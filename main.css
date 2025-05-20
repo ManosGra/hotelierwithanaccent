@@ -430,6 +430,7 @@ textarea {
 @media screen and (max-width: 767px) {
   .episodes {
     padding-top: 0 !important;
+     margin-top: 20px;
   }
 
   .main-content-episodes {
